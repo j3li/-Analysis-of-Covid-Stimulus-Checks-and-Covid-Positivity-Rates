@@ -23,4 +23,4 @@ Also, you are free and encouraged to share this project after the course and to 
 
 Data set for stim:
 Rows to be stim checks 1 and 2
-Columns: [dates, base amount, household of 1, 2, 3, 4, 5, amount per additional household]
+Columns: [date ranges, base amount, household of 1, 2, 3, 4, 5, amount per additional household]
