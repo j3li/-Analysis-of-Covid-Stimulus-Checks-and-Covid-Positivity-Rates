@@ -20,7 +20,3 @@ This is *your* repo. You are free to manage the repo as you see fit, edit this R
 Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
 
 
-
-Data set for stim:
-Rows to be stim checks 1 and 2
-Columns: [date ranges, base amount, household of 1, 2, 3, 4, 5, amount per additional household]
