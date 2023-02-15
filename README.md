@@ -1,4 +1,4 @@
-Performed data analysis with a team of 5.  Full details on the data and our analysis can be found in ``FinalProjectGroup035-Wi22.ipynb``.
+Conducted data analysis with a team of 5 on the relationship between Covid-19 stimulus checks and Covid-19 positivity rates during the pandemic.  Full details on the data and our analysis can be found in ``FinalProjectGroup035-Wi22.ipynb``.
 ## Summary
 The Covid-19 pandemic has had a significant negative impact on the economy, with many people losing their jobs. Similar to previous recessions, the US government provided stimulus checks in hopes of boosting the economy and assisting people with buying protective equipment, such as masks and disinfectants. In our study, we are trying to determine whether the stimulus checks have had a positive effect (negative correlation) on covid positivity rates. We wanted to find a relationship between the first two stimulus checks and covid positivity rates across all the counties in California.  
 
